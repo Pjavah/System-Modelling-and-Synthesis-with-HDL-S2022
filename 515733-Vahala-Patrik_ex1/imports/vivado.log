@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Sep 20 17:39:34 2022
+# Process ID: 7648
+# Current directory: C:/Users/vahal/project_2/project_2.srcs/utils_1/imports/synth_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12548 C:\Users\vahal\project_2\project_2.srcs\utils_1\imports\synth_1\top.dcp
+# Log file: C:/Users/vahal/project_2/project_2.srcs/utils_1/imports/synth_1/vivado.log
+# Journal file: C:/Users/vahal/project_2/project_2.srcs/utils_1/imports/synth_1\vivado.jou
+# Running On: DESKTOP-CACSBEO, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 16958 MB
+#-----------------------------------------------------------
+start_gui
